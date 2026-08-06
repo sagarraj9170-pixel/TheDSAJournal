@@ -7,9 +7,9 @@ public class C04_Datatype {
         char ch ='a';
         System.out.println(ch);
         boolean var = false;
-        float price=10.5;
+        float price= 10.5f;
         int number = 45;
-        //long is used to store to large value in ineger
-        //double is strong tha large  decimal vale
+        short n = 240;
+
     }
 }
