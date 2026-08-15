@@ -10,4 +10,5 @@ public class C09_area {
 
     }
 
+
 }
