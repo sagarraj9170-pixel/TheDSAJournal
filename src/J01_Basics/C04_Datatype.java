@@ -11,5 +11,7 @@ public class C04_Datatype {
         int number = 45;
         short n = 240;
 
+
+
     }
 }

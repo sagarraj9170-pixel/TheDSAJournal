@@ -6,7 +6,7 @@ public class C01_typeoperators {
         Scanner sc = new Scanner(System.in);
         int A=10;
         int B=5;
-        System.out.println( "modulo ="+(A%B));
+        System.out.println( "add ="+(A+B));
 
     }
 

@@ -9,9 +9,21 @@ public class C05_Relationalopd {
         //give me false answer becouse of
         //a is not equal to equal to b?
 
-         int A=10;
-         int B=10;
-         System.out.println((A=B));
+//         int A=10;
+//        int B=10;
+//        System.out.println((A==B)); this is give true ans
+
+//02_not equal to
+        //this give answer true jast opsd
+        int A =10;
+        int B =5;
+        System.out.println( (A !=B) );
+
+
+
+
+
+
 
 
     }
