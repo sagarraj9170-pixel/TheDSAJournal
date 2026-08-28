@@ -8,7 +8,6 @@ public class C07_inputsum {
         //int b = sc .nextInt();
         //int sum = a + b;
         //System.out.println(sum);
-
         //this is sub of number
         int a = sc .nextInt();
         int b = sc .nextInt();

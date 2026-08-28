@@ -10,7 +10,7 @@ public class C04_Datatype {
         float price= 10.5f;
         int number = 45;
         short n = 240;
-
+    System.out.println(n);
 
 
     }

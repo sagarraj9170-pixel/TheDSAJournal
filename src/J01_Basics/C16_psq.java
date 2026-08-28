@@ -1,6 +1,7 @@
 package J01_Basics;
 import java.util.*;
-public class C16_psq {
+public class
+C16_psq {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         float pen =sc.nextFloat();
