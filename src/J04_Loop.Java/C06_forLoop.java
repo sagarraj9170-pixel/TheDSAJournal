@@ -7,7 +7,5 @@ public class C06_forLoop {
             System.out.println("hello world");
         }
 
-
-
     }
 }
