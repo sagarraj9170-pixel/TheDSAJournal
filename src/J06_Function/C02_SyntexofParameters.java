@@ -1,6 +1,6 @@
 package J06_Function;
 import java.util.*;
-public class C07_SyntexofParameters {
+public class C02_SyntexofParameters {
     public static void printHelloWorld(){
      System.out.println("Hello World");
      System.out.println("hello world");
