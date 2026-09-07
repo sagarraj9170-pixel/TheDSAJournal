@@ -11,7 +11,7 @@ public class C01_SyntexCode {
     }
     //total 5 sa 8 tak sub koi function hai
     public static void main(String[] args){
-        printHelloWorld();
+        printHelloWorld(); //function cxall
     }
 
 }
