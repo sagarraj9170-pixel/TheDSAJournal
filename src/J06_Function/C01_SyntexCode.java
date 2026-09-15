@@ -2,7 +2,7 @@ package J06_Function;
 
 public class C01_SyntexCode {
 
-    public static void printHelloWorld(){
+    public static void sagarraj(){
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
@@ -11,7 +11,7 @@ public class C01_SyntexCode {
     }
     //total 5 sa 8 tak sub koi function hai
     public static void main(String[] args){
-        printHelloWorld(); //function cxall
+        sagarraj(); //function cxall
     }
 
 }

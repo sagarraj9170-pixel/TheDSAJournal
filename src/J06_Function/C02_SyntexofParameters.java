@@ -18,6 +18,8 @@ public static int calculateSum(int num1,int num2){//this is call parameters
         int b=sc.nextInt();
           int sum =  calculateSum(a,b);//a oe b arugments hain
         System.out.println("sum is : "+sum);
+        printHelloWorld();
+
     }
 
 
