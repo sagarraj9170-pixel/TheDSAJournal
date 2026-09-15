@@ -17,7 +17,7 @@ System.out.println("decimal of "+myNum+"=" +decNum);
     }
 
     public static void main(String[] args){
-    binToDce(111);
+    binToDce(011);
 
 
     }
