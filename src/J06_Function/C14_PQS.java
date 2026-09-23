@@ -8,11 +8,11 @@ public class C14_PQS {
         num =sc.nextInt();
 
         if (isEven(num)){
-            System.out.println("Number is even");
+            System.out.println("Number is  even number");
 
         }
         else{
-            System.out.println("number is odd");
+            System.out.println("number is odd number");
         }
     }
     public static boolean isEven(int number){
