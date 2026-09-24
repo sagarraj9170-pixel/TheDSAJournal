@@ -11,14 +11,14 @@ public class C06_hollow_Rectangel {
                    System.out.print("*");
                }
                else {
-                   System.out.println("");
+                   System.out.print(" ");
                }
            }
-
+           System.out.println();
         }
     }
     public static void main(String[] args){
-        hollow_Rectangle(4 ,5);
+        hollow_Rectangle(4 ,4);
 
     }
 }
