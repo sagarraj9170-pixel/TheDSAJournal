@@ -17,7 +17,7 @@ public class C04_LargestNumber {
         return largest;
     }
     public static void main(String[] args){
-        int number[] = {1,2,6,4,5};
+        int number[] = {1,2,6,4,5};//array
         System.out.println(" largest value is :" + largestNumber(number));
     }
 }
