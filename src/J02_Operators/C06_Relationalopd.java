@@ -10,8 +10,12 @@ public class C06_Relationalopd {
         //System.out.println((A<B));
 
         int  A = 10;
-        int B =20; // less than
-        System.out.println((A<B)); // true
+        int B =20;
+        // less than
+        int C =26;
+        System.out.println((A<B));
+        // true
+        System.out.println((B>C));
 
     }
 }

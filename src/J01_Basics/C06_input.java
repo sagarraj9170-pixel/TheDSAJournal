@@ -13,6 +13,9 @@ public class C06_input {
 
         float price =sc.nextFloat();
         System.out.println(price);
+
+        double prices = sc.nextDouble();
+        System.out.println(prices);
     }
 
 }

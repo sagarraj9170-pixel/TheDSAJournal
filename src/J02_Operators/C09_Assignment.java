@@ -23,7 +23,7 @@ public class C09_Assignment {
      //System.out.println(A); //this ans is 60 only
 
 
-        int A=10;
+        float A=10;
         A=A/2;
         A/=2;
         System.out.println(A);
