@@ -10,5 +10,9 @@ public class C03_Variables {
        System.out.println(name);
        a=50;
        System.out.println(a);
+       b=66;
+       System.out.println(b);
+       System.out.println("c");
+
     }
 }

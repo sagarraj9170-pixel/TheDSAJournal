@@ -2,7 +2,7 @@ package J07_Arrays;
 import java.util.*;
 public class C01_introduction {
     public static void main(String[] args){
-        int marks[] = new int[1];
+        int marks[] = new int[1145];
 
         Scanner sc = new Scanner(System.in);
         //phy=sc.nextInt();
