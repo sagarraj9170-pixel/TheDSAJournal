@@ -7,7 +7,7 @@ public class C06_PrintLargest3Number {
         int b =sc.nextInt();
         int c =sc.nextInt();
 
-        if((a>=b )&& (a>=b)){
+        if((a>=b )&& (a>=c)){
             System.out.println(" largest is a");
         }
         else if(b>=c){

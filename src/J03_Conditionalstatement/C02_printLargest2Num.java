@@ -7,9 +7,10 @@ public class C02_printLargest2Num {
 
         int a = sc.nextInt();
         int b = sc.nextInt();
+        int c = sc.nextInt();
 
         if(a>=b){
-            System.out.println("a is largest of 2");
+            System.out.println( "a is largest of 2");
         }
         else{
             System.out.println("b is largest of 2");
