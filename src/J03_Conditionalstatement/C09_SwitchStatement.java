@@ -4,7 +4,7 @@ import java.util.*;
 public class C09_SwitchStatement {
     public static void main(String[] ages) {
         Scanner sc = new Scanner(System.in);
-
+       System.out.println("number:-");
         int number = sc.nextInt();
         switch (number) {
             case 1:

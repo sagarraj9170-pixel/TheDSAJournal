@@ -5,7 +5,7 @@ public class C12_PSQ {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-
+     System.out.println("your body tem :-");
        double temp=sc.nextDouble();
 
         if (temp>100){
