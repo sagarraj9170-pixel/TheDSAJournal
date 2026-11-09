@@ -5,7 +5,7 @@ public class C09_SwitchStatement {
     public static void main(String[] ages) {
         Scanner sc = new Scanner(System.in);
 
-        int number = 3;
+        int number = sc.nextInt();
         switch (number) {
             case 1:
                 System.out.println("samosa");
